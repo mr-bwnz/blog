@@ -1,0 +1,4 @@
+[submodule "bwnz/public"]
+	path = bwnz/public
+	url = https://github.com/mr-bwnz/mr-bwnz.github.io.git
+	branch = main
