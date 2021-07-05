@@ -108,7 +108,7 @@ menu:
     main:
         - identifier: about
           name: about
-          url: "/about.md"
+          url: "/about/index.html"
         - identifier: categories
           name: categories
           url: /categories/
