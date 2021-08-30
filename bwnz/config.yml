@@ -1,5 +1,5 @@
 baseURL: "https://mr-bwnz.github.io/"
-title: /var/log/bwnz
+title: /var/log/blog
 paginate: 5
 theme: hugo-PaperMod
 
@@ -16,14 +16,14 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: /var/log/bwnz
-    description: "a hecker's journal"
+    title: ZW5jcnlwdGlvbgo=
+    description: "The more you know, the less you understand."
     keywords: [Blog, Portfolio, PaperMod]
     author: bwnz
     # author: ["bwnz"] # multiple authors
     images: ["/images"]
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
+    defaultTheme: light # dark, light
     disableThemeToggle: false
 
     ShowReadingTime: true
