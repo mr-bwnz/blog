@@ -1,5 +1,5 @@
 baseURL: "https://mr-bwnz.github.io/"
-title: /var/log/blog
+title: the interesting blog
 paginate: 5
 theme: hugo-PaperMod
 
@@ -16,14 +16,14 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: "Zfadsfdsfds"
-    description: "The more you know, the less you understand."
+    title: "the interesting blog"
+    description: "A blog about hacking and stuff."
     keywords: [Blog, Portfolio, PaperMod]
     author: bwnz
     # author: ["bwnz"] # multiple authors
     images: ["/images"]
     DateFormat: "January 2, 2006"
-    defaultTheme: light # dark, light
+    defaultTheme: dark # dark, light
     disableThemeToggle: false
 
     ShowReadingTime: true
@@ -49,7 +49,7 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "/var/log/bwnz"
+        text: "the interesting blog"
         icon: /images/drybwnz.png
         iconHeight: 50
 
@@ -70,8 +70,8 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "/var/log/bwnz"
-        Content: a hecker's journal.
+        Title: "the interesting blog"
+        Content: "an exploration of stuff"
 
     socialIcons:
         - name: twitter
